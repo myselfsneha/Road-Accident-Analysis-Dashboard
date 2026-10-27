@@ -1,92 +1,145 @@
 # 🚦 Road Accident Analysis Dashboard
 
-<p align="center">
-  <strong>Turning road accident data into meaningful insights.</strong>
-  <br/>
-  An Excel-based analytics project exploring accident patterns, casualties, fatalities, and road safety trends.
-</p>
+### Every accident leaves a mark. Data helps us look closer.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PROJECT-Data%20Analytics-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TOOL-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/FOCUS-Road%20Safety-darkred?style=for-the-badge" />
-</p>
+An Excel-based data analytics project exploring road accidents through casualties, fatalities, geographical patterns, weather conditions, and time-based trends.
+
+This project turns road accident data into an interactive dashboard — making it easier to explore patterns, compare categories, and look beyond the numbers.
+
+[Explore the Dashboard](#-the-dashboard) · [Inside the Analysis](#-inside-the-analysis) · [Tools & Techniques](#-under-the-hood)
 
 ---
 
 ## 📊 The Dashboard
 
 <p align="center">
-  <img src="Dashboard.jpg" alt="Road Accident Analysis Dashboard" width="100%" />
+  <img src="Dashboard.jpg" alt="Road Accident Analysis Dashboard built in Microsoft Excel" width="100%">
 </p>
 
-A visual exploration of road accident data, built to make patterns easier to identify and key metrics easier to understand.
+<p align="center">
+  <em>One dashboard. Multiple perspectives on road safety.</em>
+</p>
+
+Built in Microsoft Excel using PivotTables, PivotCharts, KPI summaries, and interactive slicers, the dashboard brings different dimensions of accident data into one analytical view.
+
+The idea is simple: make the data easier to explore, the patterns easier to spot, and the questions easier to ask.
+
+---
 
 ## 🧭 Inside the Analysis
+
+Rather than looking at accidents as one overall number, this project explores several dimensions of the data.
 
 | Area | What it explores |
 |---|---|
 | 🚗 Accident Overview | Overall accident patterns and key performance indicators |
-| 🩹 Casualties & Fatalities | Accident severity and its human impact |
-| 🗺️ State-wise Analysis | Geographic differences across states |
-| 🌦️ Weather Conditions | Accident patterns across weather conditions |
+| 🩹 Casualties & Fatalities | Accident severity and the human impact represented in the dataset |
+| 🗺️ State-wise Analysis | Differences in recorded accident patterns across states |
+| 🌦️ Weather Conditions | Accident patterns across different weather conditions |
 | 🕒 Time-based Trends | Patterns across different times of day |
-| 📈 Interactive Exploration | PivotTables, charts, and slicers for filtering the data |
+| 🎛️ Interactive Exploration | Filtering and comparing data through slicers, PivotTables, and charts |
 
-## 🔎 Key Metrics
+These are the dimensions explored by the dashboard, not predetermined conclusions. The actual findings depend on the underlying data and the filters applied.
 
-- **Total Accidents** — overall recorded accident count
-- **Total Casualties** — people affected by recorded accidents
-- **Total Fatalities** — recorded deaths associated with accidents
-- **Average Driver Age** — average age represented in the dataset
+---
 
-*Exact values depend on the underlying workbook and its current filters.*
+## 🔎 The Numbers Behind the View
 
-## ⚙️ Built With
+The dashboard brings together key metrics that help frame the analysis.
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PivotTables-Data%20Analysis-166534?style=flat-square" />
-  <img src="https://img.shields.io/badge/Charts-Visualization-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Slicers-Interactive%20Filtering-7C3AED?style=flat-square" />
-</p>
+- **Total Accidents** — the overall recorded accident count.
+- **Total Casualties** — the number of people affected in the recorded data.
+- **Total Fatalities** — recorded deaths associated with accidents.
+- **Average Driver Age** — the average age represented in the dataset.
 
-The project uses Excel-based data analysis and visualization techniques, including:
+The displayed values can change with the selected filters. Rather than publishing figures that may become outdated, this README focuses on what the metrics represent.
 
+---
+
+## ⚙️ Under the Hood
+
+This project uses spreadsheet-based analytical techniques to turn structured data into a visual, interactive experience.
+
+**Tools & techniques**
+
+- Microsoft Excel
 - PivotTables and PivotCharts
-- Interactive slicers
+- Interactive slicers for filtering
 - KPI summaries
-- Excel functions such as `IF`, `TEXT`, and `HOUR`
-- Structured references for organized calculations
+- Excel functions: `IF`, `TEXT`, and `HOUR`
+- Structured references for organised calculations
+
+The goal isn't just to make charts look good. It's about organising information so that different parts of the dataset can be explored in a meaningful way.
+
+---
+
+## 🗂️ What's in the Repository?
+
+```text
+Road-Accident-Analysis-Dashboard/
+│
+├── Dashboard.jpg
+├── Road_Accident_Dashboard_Project.xlsx
+└── README.md
+```
+
+| File | Purpose |
+|---|---|
+| `Dashboard.jpg` | Visual preview of the Excel dashboard |
+| `Road_Accident_Dashboard_Project.xlsx` | Workbook containing the dashboard and analysis |
+| `README.md` | Project overview, analytical scope, and documentation |
+
+**Want to explore it yourself?**
+
+1. Open `Dashboard.jpg` for a quick visual overview.
+2. Download `Road_Accident_Dashboard_Project.xlsx` from this repository.
+3. Open the workbook in Microsoft Excel to explore the dashboard and available interactive filters.
+
+For the full interactive experience, use the workbook rather than the static image.
+
+---
 
 ## 💡 Why This Project?
 
-Road accidents are more than numbers in a spreadsheet. Looking at accident frequency, severity, timing, and environmental conditions can help reveal patterns worth investigating.
+Road accidents are more than entries in a spreadsheet. Every record represents an event, and looking at the data from different angles can help us ask better questions about patterns, severity, location, and timing.
 
-This project demonstrates how spreadsheet tools can turn raw data into a structured, interactive analytical view.
+This project explores how accessible tools like Excel can support structured analysis and make information easier to interpret.
 
-## 🔭 What's Next?
+It is also a practical demonstration of data analytics fundamentals: organising data, building calculations, designing visualisations, and bringing those pieces together into an interactive dashboard.
 
-Potential directions for extending the project:
+No single chart tells the whole story. The value lies in being able to explore the data from multiple perspectives.
 
-- [ ] Rebuild the dashboard in Power BI
-- [ ] Add geographic visualizations
-- [ ] Explore deeper regional and time-based patterns
-- [ ] Investigate predictive analysis opportunities
-- [ ] Explore automated data refresh workflows
+---
 
-## 👩🏻‍💻 About the Developer
+## 🔭 Where Could It Go Next?
 
-**Sneha Singh** — Computer Science postgraduate exploring data analytics, software development, and practical technology projects.
+The current project provides a foundation for further exploration. Possible future extensions include:
 
-<p>
-  <a href="https://github.com/myselfsneha">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/singh--sneha/">LinkedIn</a> ·
-  <a href="https://myselfsneha.github.io/sneha-portfolio/">Portfolio</a>
-</p>
+- 📍 Adding geographic visualisations for regional comparisons.
+- 📊 Rebuilding the dashboard in Power BI.
+- 🕒 Exploring more detailed regional and time-based patterns.
+- 🔍 Investigating predictive analysis opportunities.
+- 🔄 Exploring automated data-refresh workflows.
+
+These are potential extensions, not features currently claimed by the project.
+
+---
+
+## 👩🏻‍💻 A Little About the Developer
+
+**Sneha Singh**  
+*Computer Science postgraduate | Exploring data analytics, software development, and practical technology projects.*
+
+I enjoy working on projects that take concepts beyond theory and turn them into something people can actually explore and use. This dashboard is one such experiment in making data more accessible through visualisation.
+
+[GitHub](https://github.com/myselfsneha) · [LinkedIn](https://www.linkedin.com/in/singh--sneha/) · [Portfolio](https://myselfsneha.github.io/sneha-portfolio/)
 
 ---
 
 <p align="center">
-  <i>Built with Excel. Driven by data. Focused on safer roads. 🚦</i>
+  <strong>Built with Excel. Driven by data. Focused on safer roads. 🚦</strong>
+</p>
+
+<p align="center">
+  <em>Looking at the numbers is one thing. Knowing what questions to ask is where the analysis begins.</em>
 </p>
