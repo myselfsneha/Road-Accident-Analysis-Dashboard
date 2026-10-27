@@ -1,95 +1,92 @@
 # 🚦 Road Accident Analysis Dashboard
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<p align="center">
+  <strong>Turning road accident data into meaningful insights.</strong>
+  <br/>
+  An Excel-based analytics project exploring accident patterns, casualties, fatalities, and road safety trends.
+</p>
 
-An interactive **Microsoft Excel dashboard** developed to analyze road accident data using Pivot Tables, Charts, KPIs, and Slicers, enabling data-driven insights into accident trends and contributing factors.
-
----
-
-## 📖 Overview
-
-This project focuses on analyzing road accident data to identify patterns related to accident severity, weather conditions, locations, time of occurrence, and casualty statistics. Using Microsoft Excel's data analysis and visualization capabilities, the dashboard transforms raw data into meaningful business insights for informed decision-making.
-
----
-
-## ✨ Features
-
-### 📊 Accident Analysis
-
-- State-wise Accident Analysis
-- Severity-wise Distribution
-- Time-based Trend Analysis
-- Weather Condition Analysis
-
-### 📈 Dashboard Features
-
-- Interactive KPI Cards
-- Pivot Tables
-- Dynamic Charts
-- Slicer-based Filtering
-- Real-time Dashboard Exploration
-
-### 📋 Key Metrics
-
-- Total Accidents
-- Total Casualties
-- Total Fatalities
-- Average Driver Age
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT-Data%20Analytics-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TOOL-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-Road%20Safety-darkred?style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 📊 The Dashboard
 
-### Data Analysis
+<p align="center">
+  <img src="Dashboard.jpg" alt="Road Accident Analysis Dashboard" width="100%" />
+</p>
 
-- Microsoft Excel
+A visual exploration of road accident data, built to make patterns easier to identify and key metrics easier to understand.
 
-### Excel Features Used
+## 🧭 Inside the Analysis
 
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- IF Function
-- TEXT Function
-- HOUR Function
-- Structured References
+| Area | What it explores |
+|---|---|
+| 🚗 Accident Overview | Overall accident patterns and key performance indicators |
+| 🩹 Casualties & Fatalities | Accident severity and its human impact |
+| 🗺️ State-wise Analysis | Geographic differences across states |
+| 🌦️ Weather Conditions | Accident patterns across weather conditions |
+| 🕒 Time-based Trends | Patterns across different times of day |
+| 📈 Interactive Exploration | PivotTables, charts, and slicers for filtering the data |
+
+## 🔎 Key Metrics
+
+- **Total Accidents** — overall recorded accident count
+- **Total Casualties** — people affected by recorded accidents
+- **Total Fatalities** — recorded deaths associated with accidents
+- **Average Driver Age** — average age represented in the dataset
+
+*Exact values depend on the underlying workbook and its current filters.*
+
+## ⚙️ Built With
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PivotTables-Data%20Analysis-166534?style=flat-square" />
+  <img src="https://img.shields.io/badge/Charts-Visualization-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Slicers-Interactive%20Filtering-7C3AED?style=flat-square" />
+</p>
+
+The project uses Excel-based data analysis and visualization techniques, including:
+
+- PivotTables and PivotCharts
+- Interactive slicers
+- KPI summaries
+- Excel functions such as `IF`, `TEXT`, and `HOUR`
+- Structured references for organized calculations
+
+## 💡 Why This Project?
+
+Road accidents are more than numbers in a spreadsheet. Looking at accident frequency, severity, timing, and environmental conditions can help reveal patterns worth investigating.
+
+This project demonstrates how spreadsheet tools can turn raw data into a structured, interactive analytical view.
+
+## 🔭 What's Next?
+
+Potential directions for extending the project:
+
+- [ ] Rebuild the dashboard in Power BI
+- [ ] Add geographic visualizations
+- [ ] Explore deeper regional and time-based patterns
+- [ ] Investigate predictive analysis opportunities
+- [ ] Explore automated data refresh workflows
+
+## 👩🏻‍💻 About the Developer
+
+**Sneha Singh** — Computer Science postgraduate exploring data analytics, software development, and practical technology projects.
+
+<p>
+  <a href="https://github.com/myselfsneha">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/singh--sneha/">LinkedIn</a> ·
+  <a href="https://myselfsneha.github.io/sneha-portfolio/">Portfolio</a>
+</p>
 
 ---
 
-## 📌 Key Insights
-
-- 📍 Analyzed accident trends across different states.
-- 🚗 Evaluated accident severity and casualty distribution.
-- 🌦 Examined the impact of weather conditions on accidents.
-- ⏰ Identified accident patterns across different time categories.
-- 📊 Designed an interactive dashboard using Pivot Tables, Charts, KPIs, and Slicers for dynamic data exploration.
-
----
-
-## 🚀 Future Enhancements
-
-- Power BI Version
-- Geographic Map Visualizations
-- Predictive Accident Analysis
-- Automated Data Refresh
-- Regional Performance Dashboard
-
----
-
-## 👩‍💻 Author
-
-**Sneha Singh**
-
-🌐 Portfolio: https://myselfsneha.github.io/sneha-portfolio/
-
-💼 LinkedIn: https://www.linkedin.com/in/singh--sneha/
-
-💻 GitHub: https://github.com/myselfsneha
-
----
-
-## 📄 License
-
-This project was developed for educational and learning purposes.
-
-⭐ If you found this project useful, consider giving it a star!
+<p align="center">
+  <i>Built with Excel. Driven by data. Focused on safer roads. 🚦</i>
+</p>
