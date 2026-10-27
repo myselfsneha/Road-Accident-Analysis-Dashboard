@@ -29,7 +29,7 @@ That's where this project comes in.
 
 **Road Accident Analysis Dashboard** is an Excel-based data analytics project built to make accident data easier to explore through charts, comparisons, and interactive filters.
 
-Developed as part of my data analytics learning journey, this project gave me an opportunity to apply spreadsheet-based analytical techniques and turn structured data into a visual dashboard.
+This project is part of my data analytics learning journey, where I have been exploring practical analytical techniques and turning structured data into meaningful visualisations.
 
 Instead of presenting one static answer, the dashboard offers multiple ways to look at the data.
 
@@ -43,7 +43,7 @@ Instead of presenting one static answer, the dashboard offers multiple ways to l
 
 ![Road Accident Analysis Dashboard — Excel dashboard preview](Dashboard.jpg)
 
-*The dashboard brings yearly trends, state-level comparisons, vehicle types, accident severity, and lighting conditions into one view.*
+*Yearly trends, state-level comparisons, vehicle categories, accident severity, and lighting conditions — all in one view.*
 
 </div>
 
@@ -60,7 +60,7 @@ Built in Microsoft Excel, the dashboard brings multiple views of accident data t
 | 🌗 Lighting conditions | Differences across daylight, dusk, dawn, and dark conditions |
 | 🎛️ Interactive filters | Narrowing the dashboard view by available categories |
 
-These describe the views visible in the dashboard preview, not conclusions about accident causes or road safety outcomes.
+These describe the views shown in the dashboard, not conclusions about accident causes or road safety outcomes.
 
 ---
 
@@ -73,7 +73,7 @@ Here's the story the dashboard is designed to help investigate.
 
 The year-wise line chart provides a view of recorded accident counts across six years.
 
-It offers a starting point for questions such as:
+Questions worth exploring:
 
 - How does the recorded count change from year to year?
 - Which years show higher or lower values in the displayed data?
@@ -127,7 +127,7 @@ The lighting-conditions chart compares recorded accident counts across categorie
 
 It creates an opportunity to ask how the displayed counts differ by lighting category.
 
-However, the chart alone cannot establish that lighting caused an accident or determine the relative risk of travelling under a particular condition.
+The chart alone cannot establish that lighting caused an accident or determine the relative risk of travelling under a particular condition.
 
 </details>
 
@@ -164,7 +164,7 @@ This project uses spreadsheet-based analysis and visualisation to turn structure
 
 The emphasis is on making the information accessible: a reader should be able to move from the overall picture to a more focused comparison without needing to interpret a raw table alone.
 
-The list above reflects the techniques described for the project and visible in its dashboard. It is not a claim that every possible Excel analytics technique was used.
+The techniques listed here reflect the project description and dashboard. They are not a claim that every possible Excel analytics technique was used.
 
 ---
 
@@ -196,7 +196,7 @@ Road-Accident-Analysis-Dashboard/
 │   └── Excel workbook and interactive analysis
 │
 └── README.md
-    └── Project story, dashboard guide, and documentation
+    └── Project overview, analytical scope, and documentation
 ```
 
 ### Want to explore it yourself?
@@ -217,7 +217,7 @@ On the workbook's GitHub page, use the download option to save the file.
 
 Open the downloaded workbook in Excel and use the available interactive filters to investigate different views of the data.
 
-**4. Keep the distinction in mind**
+**4. Remember the difference**
 
 `Dashboard.jpg` is a static image. The Excel workbook is the file to use when you want to interact with the dashboard.
 
@@ -245,13 +245,13 @@ And one reminder worth keeping: **a chart can reveal a pattern without explainin
 
 ## 🎓 Part of My Data Analytics Journey
 
-This project is connected to my **Data Analytics Trainee training through Accenture Anudip Foundation (July–November 2024)**.
+My data analytics journey includes training as a **Data Analytics Trainee through Accenture Anudip Foundation (July–November 2024)**.
 
-The training was part of my journey into working with data, exploring analytical tools, and learning how to present information through practical projects.
+During this stage, I explored analytical tools and worked on practical projects that helped me connect concepts with hands-on data analysis.
 
-Building dashboards like this helped me connect analytical concepts with hands-on work: organising information, comparing categories, and communicating what a visualisation can — and cannot — tell us.
+This dashboard reflects the kind of skills I have been developing: organising structured information, comparing categories, building visualisations, and presenting data in a way that encourages further exploration.
 
-For me, this project is more than a collection of charts. It's one of the steps that helped me practise turning data into something people can explore and understand.
+For me, the value isn't just in making a dashboard. It's in learning how to move from raw data to a clearer view of the questions worth asking.
 
 ---
 
@@ -276,14 +276,15 @@ These are future possibilities, not features claimed to exist in the current wor
 
 ### Sneha Singh
 
-**M.Sc. Computer Science @ DAVV**  
+**M.Sc. Computer Science @ DAVV**
+
 *Data Analytics · Software Development · Practical Technology Projects*
 
 </div>
 
 I enjoy taking concepts beyond theory and turning them into projects people can actually explore and use.
 
-From spreadsheet dashboards to Python-based exploratory analysis, I'm interested in finding useful ways to work with data, recognise patterns, and communicate what the numbers reveal.
+From spreadsheet dashboards to Python-based exploratory analysis, I'm interested in finding useful ways to work with data, recognising patterns, and communicating what the numbers reveal.
 
 This dashboard is one experiment in that journey — built around curiosity, visualisation, and the habit of asking better questions.
 
