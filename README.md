@@ -3,7 +3,7 @@
 
 # 🚦 ROAD ACCIDENT ANALYSIS DASHBOARD
 
-### `the numbers behind the road`
+### *the numbers behind the road*
 
 **One dataset. Different perspectives. Better questions.**
 
@@ -29,9 +29,13 @@ That's where this project comes in.
 
 **Road Accident Analysis Dashboard** is an Excel-based data analytics project built to make accident data easier to explore through charts, comparisons, and interactive filters.
 
+Developed as part of my data analytics learning journey, this project gave me an opportunity to apply spreadsheet-based analytical techniques and turn structured data into a visual dashboard.
+
 Instead of presenting one static answer, the dashboard offers multiple ways to look at the data.
 
 > The point isn't to make the numbers look impressive. It's to make them easier to question, compare, and understand.
+
+---
 
 ## 📊 The Dashboard
 
@@ -43,7 +47,7 @@ Instead of presenting one static answer, the dashboard offers multiple ways to l
 
 </div>
 
-The dashboard preview shows a collection of Excel charts and interactive filtering controls, allowing the data to be explored from different angles.
+Built in Microsoft Excel, the dashboard brings multiple views of accident data together in one place.
 
 ### A quick look at what's inside
 
@@ -56,7 +60,7 @@ The dashboard preview shows a collection of Excel charts and interactive filteri
 | 🌗 Lighting conditions | Differences across daylight, dusk, dawn, and dark conditions |
 | 🎛️ Interactive filters | Narrowing the dashboard view by available categories |
 
-*These describe the views visible in the dashboard preview, not conclusions about accident causes or road safety outcomes.*
+These describe the views visible in the dashboard preview, not conclusions about accident causes or road safety outcomes.
 
 ---
 
@@ -86,7 +90,7 @@ The horizontal bar chart compares recorded accident counts across states.
 
 This view makes it easier to compare categories within the selected dataset and examine how the displayed distribution changes.
 
-A useful distinction: comparing raw counts is not the same as comparing accident risk. Population, traffic volume, reporting practices, and other context would be needed to interpret risk properly.
+Comparing raw counts is not the same as comparing accident risk. Population, traffic volume, reporting practices, and other context would be needed to interpret risk properly.
 
 </details>
 
@@ -160,7 +164,7 @@ This project uses spreadsheet-based analysis and visualisation to turn structure
 
 The emphasis is on making the information accessible: a reader should be able to move from the overall picture to a more focused comparison without needing to interpret a raw table alone.
 
-*The list above reflects the techniques described for the project and visible in its dashboard. It is not a claim that every possible Excel analytics technique was used.*
+The list above reflects the techniques described for the project and visible in its dashboard. It is not a claim that every possible Excel analytics technique was used.
 
 ---
 
@@ -197,9 +201,6 @@ Road-Accident-Analysis-Dashboard/
 
 ### Want to explore it yourself?
 
-<details>
-<summary><strong>📥 Open the dashboard and workbook</strong></summary>
-
 **1. Start with the preview**
 
 [Open Dashboard.jpg](Dashboard.jpg)
@@ -219,8 +220,6 @@ Open the downloaded workbook in Excel and use the available interactive filters 
 **4. Keep the distinction in mind**
 
 `Dashboard.jpg` is a static image. The Excel workbook is the file to use when you want to interact with the dashboard.
-
-</details>
 
 ---
 
@@ -244,6 +243,18 @@ And one reminder worth keeping: **a chart can reveal a pattern without explainin
 
 ---
 
+## 🎓 Part of My Data Analytics Journey
+
+This project is connected to my **Data Analytics Trainee training through Accenture Anudip Foundation (July–November 2024)**.
+
+The training was part of my journey into working with data, exploring analytical tools, and learning how to present information through practical projects.
+
+Building dashboards like this helped me connect analytical concepts with hands-on work: organising information, comparing categories, and communicating what a visualisation can — and cannot — tell us.
+
+For me, this project is more than a collection of charts. It's one of the steps that helped me practise turning data into something people can explore and understand.
+
+---
+
 ## 🔭 If I Were to Take It Further…
 
 The current dashboard offers a foundation for further exploration. Some possible next steps:
@@ -255,7 +266,7 @@ The current dashboard offers a foundation for further exploration. Some possible
 - 📝 Document validated findings with exact values, clear filters, and appropriate context.
 - 🔄 Explore a repeatable data-refresh workflow.
 
-These are **future possibilities**, not features claimed to exist in the current workbook.
+These are future possibilities, not features claimed to exist in the current workbook.
 
 ---
 
@@ -265,19 +276,22 @@ These are **future possibilities**, not features claimed to exist in the current
 
 ### Sneha Singh
 
-**Computer Science postgraduate · Data Analytics · Software Development**
+**M.Sc. Computer Science @ DAVV**  
+*Data Analytics · Software Development · Practical Technology Projects*
 
 </div>
 
 I enjoy taking concepts beyond theory and turning them into projects people can actually explore and use.
 
-This dashboard is one of my experiments in working with structured data, building visualisations, and presenting information in a way that encourages curiosity rather than simply displaying numbers.
+From spreadsheet dashboards to Python-based exploratory analysis, I'm interested in finding useful ways to work with data, recognise patterns, and communicate what the numbers reveal.
+
+This dashboard is one experiment in that journey — built around curiosity, visualisation, and the habit of asking better questions.
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-myselfsneha-181717?style=flat-square&logo=github)](https://github.com/myselfsneha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/singh--sneha/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-145374?style=flat-square&logo=githubpages&logoColor=white)](https://myselfsneha.github.io/sneha-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-145374?style=flat-square)](https://myselfsneha.github.io/sneha-portfolio/)
 
 </div>
 
